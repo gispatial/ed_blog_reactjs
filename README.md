@@ -1,14 +1,6 @@
 
 # Ed React Coffee Blog
 
-This is a simple React app that retrieves and displays content from [Kontent by Kentico](https://kontent.ai). It serves as a source code reference for the [Building your first React app with Kontent](https://docs.kontent.ai/tutorials/develop-apps/get-started/building-your-first-application?tech=react) tutorial.
-
-* Follow the tutorial at <https://docs.kontent.ai/tutorials/develop-apps/get-started/build-your-first-app?tech=react>
-* Explore a [live demo](https://codesandbox.io/s/github/kentico/kontent-tutorial-react-js/tree/master/?module=%2Fsrc%2FApp.js)
-* Head over to [Kontent Docs](https://docs.kontent.ai) for more resources.
-
-This project is using the [Kontent JavaScript Delivery SDK](https://github.com/Kentico/kontent-delivery-sdk-js) and was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
 ## Prerequisites
 
 * [Node and npm](https://nodejs.org/en/)
